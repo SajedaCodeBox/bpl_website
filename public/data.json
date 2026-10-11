@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 98,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium",
+    "price": "500",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 2,
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 96,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off Break",
+    "price": "1000",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 3,
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 95,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Fast Medium",
+    "price": "1500",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 4,
+    "playerName": "Pat Cummins",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 94,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "2000",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 5,
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 94,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off Break",
+    "price": "2500",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 6,
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "None",
+    "price": "3000",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 7,
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "All-Rounder",
+    "rating": 95,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Leg Break",
+    "price": "3500",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 8,
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 92,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Orthodox",
+    "price": "4000",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 9,
+    "playerName": "Quinton de Kock",
+    "playerCountry": "South Africa",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 91,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "None",
+    "price": "100000",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  },
+  {
+    "id": 10,
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 97,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "200000",
+    "playerImage": "https://i.ibb.co.com/TMFzKp98/150637-3840x2160-desktop-4k-virat-kohli-wallpaper-image.jpg"
+  }
+]
